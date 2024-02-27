@@ -1,0 +1,1 @@
+Dive into the world of recommendation systems, understanding collaborative filtering, content-based filtering, and hybrid approaches. This folder includes practical examples, case studies, and hands-on exercises to reinforce your knowledge of building effective recommendation systems.
